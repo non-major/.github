@@ -1,4 +1,4 @@
-<body align="center">
+ <div align="center">
     <figure>
         <a align="center" style= id="fig_href" href="#" target="_blank"><img src="../resources/iceBear.gif" width="30%"></a>
     </figure>
@@ -16,4 +16,4 @@
                 <li>문제 풀이 공유하기</li>
             </ol>
     </section>
-</body>
+</div>

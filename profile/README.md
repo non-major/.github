@@ -1,3 +1,4 @@
+<body>
 <div align="center">
    <img src="../resources/iceBear.gif" width="30%">
    <h1 id="title">Non-major Study</h1>
@@ -9,3 +10,4 @@
            <p>문제 풀이 공유하기<p>
        </div>
 </div>
+</body>

@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset = 'UTF-8'></charset>
-    <link rel="stylesheet" type="text/css" href="../resources/index.css">
-</head>
-<body>
+<body align="center">
     <figure>
-        <a align="center" id="fig_href" href="#" target="_blank"><img src="../resources/iceBear.gif" width="30%"></a>
+        <a align="center" style= id="fig_href" href="#" target="_blank"><img src="../resources/iceBear.gif" width="30%"></a>
     </figure>
     <section id="header" style="display:flex; flex-direction:column;align-items:center;">
         <h1 id="title" style="font-size:50px">Non-major Study</h1>
@@ -23,4 +17,3 @@
             </ol>
     </section>
 </body>
-</html>

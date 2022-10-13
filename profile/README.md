@@ -1,7 +1,8 @@
 <div align="center">
    <img src="/resources/iceBear.gif" width="50%">
    <h1>Non-major Study</h1>
-   <h2>비전공자 환영 기초반 스터디(당연함. 제가 비전공자임) 😊😊😊😊😊😊</h2>
+   <h2>비전공자 환영 기초반 스터디(당연함. 제가 비전공자임)</h2>
+   <div>😊😊😊😊😊😊</div>
    <h3> 스터디 진행 방법</h3>
        <div>
            <p>알고리즘 문제 정하기<p>

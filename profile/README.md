@@ -5,7 +5,7 @@
 </head>
 <body>
     <figure>
-        <a id="fig_href" href="#" target="_blank"><img src="./iceBear.gif" width="30%"></a>
+        <a id="fig_href" href="#" target="_blank"><img src="../resources/iceBear.gif" width="30%"></a>
     </figure>
     <section id="header" style="display:flex; flex-direction:column;align-items:center;">
         <h1 id="title" style="font-size:50px">Non-major Study</h1>

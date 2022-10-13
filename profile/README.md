@@ -4,11 +4,10 @@
 <html>
 <head>
     <meta charset = 'UTF-8'></charset>
-    <link rel="stylesheet" type="text/css" href="../reset.css">
 </head>
 <body>
     <figure>
-        <a id="fig_href" href="#" target="_blank"><img src="./iceBear.gif" width="30%"></a>
+        <a id="fig_href" href="#" target="_blank"><img src="../resources/iceBear.gif" width="30%"></a>
     </figure>
     <section id="header">
         <h1 id="title">Non-major Study</h1>

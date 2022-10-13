@@ -1,3 +1,6 @@
+<html>
+<head>
+</head>
 <body>
 <div align="center">
    <img src="../resources/iceBear.gif" width="30%">
@@ -11,3 +14,4 @@
        </div>
 </div>
 </body>
+</html>

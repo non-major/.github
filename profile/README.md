@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="../resources/iceBear.gif" width="30%">
+   <img src="/resources/iceBear.gif" width="30%">
    <h1>Non-major Study</h1>
    <h2>비전공자 환영 기초반 스터디(당연함. 제가 비전공자임) 😊😊😊😊😊😊</h2>
    <h3> 스터디 진행 방법</h3>
